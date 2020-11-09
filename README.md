@@ -1,15 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Carlosalpha1/Carlosalpha1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-.
 - 🌱 I’m currently student of Robotics Software Engineering (URJC)
-- 
 - 👯 I’m looking to collaborate on C++, Python, ROS Projects
 - :star: I have programmed in C++, C, Python, Java, Shell-scripting (in Linux)
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: carlos2caminero@gmail.com
