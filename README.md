@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-- 🌱 I’m currently student of Robotics Software Engineering (URJC)
-- ⭐ Skills: C++, C, Python, Java, Shell-scripting (in Linux)
-- 🌟 Advanced Level in C++. Intermediate Level in ROS and ROS2
-- 💻 I’m looking to collaborate on C++, Python, ROS Projects
+- 🌱 I’m currently student of Robotics Software Engineering (URJC) and passionate about ethical hacking.
+- ⭐ Skills:
+-       + Advanced Level: C++, C, GNU/Linux
+-       + Intermediate Level: Python, ROS/ROS2, assembly, Kali Linux
+-       + Basic Level: Java, HTML/CSS/JS
+- ℹ️ Mobile Robotics web: https://carlos2caminero.wixsite.com/mobilerobotics
 - 📫 How to reach me: carlos2caminero@gmail.com
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Carlosalpha1&show_icons=true&theme=chartreuse-dark)
