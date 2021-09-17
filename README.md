@@ -1,6 +1,6 @@
-### Hi there 👋
+### std::cout<<"Hello World!"<<std::endl 👋
 
-- 🌱 I’m currently student of Robotics Software Engineering (URJC) and passionate about ethical hacking.
+- 🌱 I’m a passionate about Development in Robotics Software, GUIs and ethical hacking.
 - ⭐ Skills:
 -       + Advanced Level: C++, C, GNU/Linux
 -       + Intermediate Level: Python, ROS/ROS2, assembly, Kali Linux
