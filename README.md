@@ -10,4 +10,4 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Carlosalpha1&show_icons=true&theme=chartreuse-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosalpha1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+![snake gif](https://github.com/Carlosalpha1/Carlosalpha1/blob/output/github-contribution-grid-snake.gif)
