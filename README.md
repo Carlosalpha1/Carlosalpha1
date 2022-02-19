@@ -3,8 +3,8 @@
 - 🌱 I’m a passionate about Development in Robotics Software, GUIs and ethical hacking.
 - ⭐ Skills:
   + **Advanced Level**: `C++, C, GNU/Linux`
-  + **Intermediate Level**: `Python, ROS/ROS2, assembly, Kali Linux`
-  + **Basic Level**: `Java, HTML/CSS/JS`
+  + **Intermediate Level**: `Python, ROS/ROS2, assembly, Kali Linux, HTML/CSS/Javascript`
+  + **Basic Level**: `Java`
 - ℹ️ Mobile Robotics web: https://carlos2caminero.wixsite.com/mobilerobotics
 - 📫 How to reach me: carlos2caminero@gmail.com
 
