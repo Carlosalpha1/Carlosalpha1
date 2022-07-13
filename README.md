@@ -3,9 +3,8 @@
 Hello there! my name's Carlos Caminero. I’m a passionate about Development in Robotics Software, Linux System Administration and Ethical Hacking.
 
 ### Skills
-+ **Advanced Level**: `C++, C, Python, GNU/Linux, ROS2`
-+ **Intermediate Level**: `Python, ROS, assembly, Kali Linux, HTML/CSS/Javascript`
-+ **Basic Level**: `Java`
++ **Advanced Level**: `C++, C, Python, GNU/Linux, ROS/ROS2`
++ **Intermediate Level**: `Assembly, Kali Linux, HTML/CSS/Javascript, Java`
 
 ### Personal Websites
 * **Mobile Robotics**: https://carlos2caminero.wixsite.com/mobilerobotics
