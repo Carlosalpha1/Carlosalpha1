@@ -3,8 +3,21 @@
 Hello there! my name's Carlos Caminero. I’m a passionate about Development in Robotics Software, Linux System Administration and Ethical Hacking.
 
 ### Skills
-+ **Advanced Level**: `C++, C, Python, GNU/Linux, ROS/ROS2`
-+ **Intermediate Level**: `Assembly, Kali Linux, HTML/CSS/Javascript, Java`
+<span><img height=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/></span>
+<span><img height=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/></span>
+<span><img height=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></span>
+<span><img height=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/></span>
+<span><img height=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/></span>
+<span><img height=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/></span>
+<span><img height=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/></span>
+<span><img height=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/></span>
+<span><img height=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/></span>
+<span><img height=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/></span>
+<span><img height=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"/></span>
+<img height=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg"/>
+
++ **ROBOT OPERATING SYSTEM**: **ROS** & **ROS2**
++ **KALI Linux**
 
 ### Personal Websites
 * **Mobile Robotics**: https://carlos2caminero.wixsite.com/mobilerobotics
