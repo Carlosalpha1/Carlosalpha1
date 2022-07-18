@@ -14,6 +14,7 @@ Hello there! my name's Carlos Caminero. I’m a passionate about Development in 
 <span><img height=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/></span>
 <span><img height=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/></span>
 <span><img height=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"/></span>
+<span><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"/></span>
 <img height=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg"/>
 
 + **ROBOT OPERATING SYSTEM**: **ROS** & **ROS2**
