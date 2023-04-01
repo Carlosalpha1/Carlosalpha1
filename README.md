@@ -1,6 +1,13 @@
-![](./banner.png)
-
-Hello there! my name's Carlos Caminero. I’m a passionate about Development in Robotics Software, Linux System Administration and Ethical Hacking.
+<div align="center">
+  <img src="./banner.png" alt="Banner"></img>
+  <br>
+  Hello there! my name's Carlos Caminero.<br>
+  I’m a passionate about Development in Robotics Software,<br>
+  Linux System Administration and <b>Ethical Hacking</b>.
+  <br><br>
+  I actively participate in the <br>
+  <b>HackTheBox</b> and <b>TryHackMe</b> platforms
+</div>
 
 ### Skills
 | Topic | Technologies |
@@ -17,8 +24,6 @@ Hello there! my name's Carlos Caminero. I’m a passionate about Development in 
 * **Service Robotics**: https://github.com/Carlosalpha1/robotica_servicio/wiki
 * **TFG 2021 Weblog**: https://roboticslaburjc.github.io/2021-tfg-carlos-caminero/
 
-### How to reach me
-- carlos2caminero@gmail.com
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Carlosalpha1&show_icons=true&theme=chartreuse-dark)
 
