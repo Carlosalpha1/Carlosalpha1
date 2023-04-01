@@ -1,13 +1,11 @@
-<div align="center">
-  <img src="./banner.png" alt="Banner"></img>
-  <br>
-  Hello there! my name's Carlos Caminero.<br>
-  I’m a passionate about Development in Robotics Software,<br>
-  Linux System Administration and <b>Ethical Hacking</b>.
-  <br><br>
-  I actively participate in the <br>
-  <b>HackTheBox</b> and <b>TryHackMe</b> platforms
-</div>
+![](./banner.png)
+
+### Hello there, I'm _Carlos Caminero_ 👋
+
+I’m a passionate about Development in Robotics Software, Linux System Administration and Ethical Hacking.
+
+I actively participate in the **HackTheBox** and **TryHackMe** platforms
+
 
 ### Skills
 | Topic | Technologies |
@@ -24,6 +22,9 @@
 * **Service Robotics**: https://github.com/Carlosalpha1/robotica_servicio/wiki
 * **TFG 2021 Weblog**: https://roboticslaburjc.github.io/2021-tfg-carlos-caminero/
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosalpha1&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Carlosalpha1&show_icons=true&theme=chartreuse-dark)
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/alphaoscuro.png" alt="TryHackMe">
+
 
