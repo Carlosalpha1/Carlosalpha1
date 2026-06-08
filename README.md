@@ -27,3 +27,32 @@
 │   PRINCIPLE   Authorized testing. Measurable impact. Actionable reporting.   │
 │                                                                              │
 └──────────────────────────────────────────────────────────────────────────────┘
+```
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&height=110&color=0:050505,50:111827,100:FF0000&text=PRINCIPAL%20OFFENSIVE%20SECURITY%20CERTIFICATIONS&fontColor=FF0000&fontSize=28&animation=twinkling" />
+
+<div align="center">
+
+<table>
+<tr>
+<td width="72" align="center"><img src="https://avatars.githubusercontent.com/u/13749115?s=200&v=4" width="56"></td>
+<td align="left"><strong>Burp Suite Certified Practitioner (BSCP)</strong></td>
+</tr>
+<tr>
+<td width="72" align="center"><img src="https://templates-eu.images.credential.net/1747396066360315076207074436361.png" width="56"></td>
+<td align="left"><strong>Certified Red Team Operator (CRTO)</strong></td>
+</tr>
+<tr>
+<td width="72" align="center"><img src="https://templates.images.credential.net/16947191222671701758205992327842.png" width="56"></td>
+<td align="left"><strong>Web Application Penetration Tester eXtreme (eWPTX)</strong></td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:00ff9c,50:111827,100:050505&section=footer" />
+
+</div>
